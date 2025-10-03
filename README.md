@@ -79,7 +79,6 @@ From this project, I learned:
 
 ---
 
-## Steps to Set Up
+Detailed Setup and Tips
 
-The `docs/steps.md` file contains a step-by-step guide for setting up Apache and Nginx, including commands to run, firewall configuration, and testing the web pages. It is meant to guide someone to replicate the setup exactly as in this project.
-
+For a detailed step-by-step guide for setting up Apache and Nginx, including commands, firewall configuration, testing the web pages, and troubleshooting tips, see the [steps.md](docs/steps.md)and [`tips.md`](docs/tips.mdfiles. These files are meant to guide someone to replicate the setup exactly as in this project.
