@@ -37,7 +37,9 @@ manual-web-server-setup/
 ### Apache Screenshots
 
 ![Apache Install](apache/screenshots/apache-install.png)
+
 ![Apache Default Page](apache/screenshots/apache-default-page.png)
+
 ![Apache Virtual Host](apache/screenshots/apache-virtualhost.png)
 
 ## Nginx Setup
@@ -49,7 +51,9 @@ manual-web-server-setup/
 ### Nginx Screenshots
 
 ![Nginx Install](nginx/screenshots/nginx-install.png)
+
 ![Nginx Default Page](nginx/screenshots/nginx-default-page.png)
+
 ![Nginx Server Block](nginx/screenshots/nginx-serverblock.png)
 
 ## Skills Learned
