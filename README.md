@@ -81,4 +81,4 @@ From this project, I learned:
 
 Detailed Setup and Tips
 
-For a detailed step-by-step guide for setting up Apache and Nginx, including commands, firewall configuration, testing the web pages, and troubleshooting tips, see the [steps.md](docs/steps.md)and [`tips.md`](docs/tips.mdfiles. These files are meant to guide someone to replicate the setup exactly as in this project.
+For a detailed step-by-step guide for setting up Apache and Nginx, including commands, firewall configuration, testing the web pages, and troubleshooting tips, see the [steps.md](docs/steps.md) and [`tips.md`](docs/tips.md) files. These files are meant to guide someone to replicate the setup exactly as in this project.
